@@ -38,7 +38,7 @@ export default defineConfig((/* ctx */) => {
       },
 
       vueRouterMode: 'hash', // available values: 'hash', 'history'
-      // vueRouterBase,
+      vueRouterBase: '/moshfolio/',
       // vueDevtools,
       // vueOptionsAPI: false,
 
