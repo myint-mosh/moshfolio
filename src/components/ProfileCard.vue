@@ -2,7 +2,7 @@
   <q-card dark flat bordered class="profile-card">
     <q-card-section class="text-center">
       <q-avatar size="200px" class="q-mb-md">
-        <img src="https://via.placeholder.com/200" alt="Profile" />
+        <img :src="profileImage" alt="Profile" />
       </q-avatar>
 
       <div class="description text-white">
@@ -16,7 +16,7 @@
 </template>
 
 <script setup>
-//
+import profileImage from 'assets/mosh_img.jpeg'
 </script>
 
 <style scoped>
