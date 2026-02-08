@@ -8,7 +8,7 @@
       <div class="description text-white">
         <h5 class="q-mb-sm">Myint Myat Aung</h5>
         <p class="text-grey-5">
-          Hi, I'm Myint. I like improving engineers' happiness by building tools and automating processes. I also love reading news and gaming.
+          Hi, I'm Myint. I like improving engineers' happiness by building tools and automating processes. I happen to love watching things - games, football... anything competitive.
         </p>
       </div>
     </q-card-section>

@@ -21,7 +21,7 @@ const info = {
     university: 'St Cloud State University',
     year: '2023',
   },
-  interests: ['Coding', 'Coffee', 'Dota 2', 'Counter Strike', 'Food'],
+  interests: ['Parks', 'Games; Dota 2; Counter Strike', 'Food', 'Coffee', 'Animes'],
 }
 
 const formattedInfo = computed(() => {
